@@ -1,0 +1,11 @@
+path: C:/Users/stan/Desktop/yolov8/yolo_dataset # dataset root dir
+train: images/train # train images (relative to 'path') 118287 images
+val: images/val # val images (relative to 'path') 5000 images
+
+# Classes
+names:
+  0: Coverall
+  1: Face_Shield
+  2: Gloves
+  3: Goggles
+  4: Mask
